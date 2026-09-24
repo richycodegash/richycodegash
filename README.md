@@ -19,17 +19,12 @@ I also develop Android applications using Kotlin and Jetpack Compose.
 
 - [jamboTalkBackend1](https://github.com/richycodegash/jamboTalkBackend1) — This backend serves a chatting app (jamboTalk).Built using spring boot.
 - [RegisterSystem](https://github.com/richycodegash/RegisterSystem) — This backend serves a register app to account for student attendance in any school enrolled.
-- 
-- [Project Name](repository-link) — Android project demonstrating Kotlin and Jetpack Compose.
 
 ### Experience
 
 **Attachment — Mahanaim College**
-
-- Describe the systems, applications, or tasks you worked on.
-- Mention technologies used.
-- Include measurable outcomes where possible.
-- Explain what you learned and contributed.
+- Here, I learnt and worked on networking,programing concepts and backend development
+- I also worked on spring boot to develop the backend systems
 
 ### Currently learning
 
@@ -41,5 +36,4 @@ I also develop Android applications using Kotlin and Jetpack Compose.
 
 ### Contact
 
-- LinkedIn: [Your LinkedIn profile](link)
-- Email: your-email@example.com
+- Email: richardgachanja01@gmail.com
