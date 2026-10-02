@@ -1,4 +1,4 @@
-# Hi, I'm Richy 👋
+# Hi 👋 ,I'm Richard Gachanja.
 
 ## Junior Backend Developer
 
