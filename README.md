@@ -19,8 +19,8 @@ I also develop Android applications using Kotlin and Jetpack Compose.
 
 - [jamboTalkBackend1](https://github.com/richycodegash/jamboTalkBackend1) — This backend serves a chatting app (jamboTalk).Built using spring boot.
 - [RegisterSystem](https://github.com/richycodegash/RegisterSystem) — This backend serves a register app to account for student attendance in any school enrolled.
-- [R-Transfer] (https://github.com/richycodegash/R-Transfer)- This is a mobile money transfer platform where clients can do all kind of money transactions.
-- [ByteThread] (https://github.com/richycodegash/ByteThreadBackend)- This is a blogging platform where anyone can share posts,thoughts and daily experience.
+- [R-Transfer](https://github.com/richycodegash/R-Transfer)- This is a mobile money transfer platform where clients can do all kind of money transactions.
+- [ByteThread](https://github.com/richycodegash/ByteThreadBackend)- This is a blogging platform where anyone can share posts,thoughts and daily experience.
 
 ### Experience
 
